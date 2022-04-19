@@ -30,6 +30,7 @@ export default function App() {
   };
   return (
     <div>
+    
       <section className="contact-section">
         <div className="container">
           <ToastContainer position="top-center" />
@@ -169,6 +170,7 @@ export default function App() {
           </div>
         </div>
       </section>
+
     </div>
   )
 }
